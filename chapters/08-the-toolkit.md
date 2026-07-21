@@ -2,7 +2,7 @@
 
 > "The answer is less. Do less than your competitors to beat them." — from 37signals, *Getting Real*
 
-Every stuck engineer eventually hits the same wall, and it isn't a skill wall — it's a *stack* wall. You know how to build; you've done the RAG demo, wired the evals, sent the offer. But between you and shipping like a team sits a fog of tooling decisions: which editor, which agent runner, which vector store, how to command more than one agent at once without losing your mind, how to sound sharp in the client call you just earned. Adrian spent more evenings paralyzed by tool choice than by any actual bug. The paralysis had a story attached: *everyone else already knows the stack, and I have to reverse-engineer it alone.*
+Every stuck engineer eventually hits the same wall, and it isn't a skill wall — it's a *stack* wall. You know how to build; you've done the RAG demo, wired the evals, sent the offer. But between you and shipping like a team sits a fog of tooling decisions: which editor, which agent runner, which vector store, how to command more than one agent at once without losing your mind, how to sound sharp in the client call you just earned. You've spent more evenings paralyzed by tool choice than by any actual bug. The paralysis had a story attached: *everyone else already knows the stack, and I have to reverse-engineer it alone.*
 
 You don't. The stack is knowable, small, and mostly settled — and the parts that aren't settled don't matter as much as the forums pretend. What follows is a real daily-driver setup, layer by layer, including the tools I build and use myself. I'll tell you which ones are mine when they come up, so you can weigh the recommendation with that in mind.
 
@@ -16,7 +16,7 @@ A **stack** is the ordered set of layers a workflow runs on — historically the
 
 ## The framework: The Daily Driver Stack
 
-Five layers, one default each. **The Daily Driver Stack** is the setup you can stand up this week:
+Five layers, one default each — though build and ship are the two that are load-bearing; the rest is a career-bridge sidecar. **The Daily Driver Stack** is the setup you can stand up this week:
 
 1. **The build layer — an agentic coding environment.** Claude Code as the core: read the codebase, run commands, drive parallel agents behind verifiable checks (chapters 2, 4, and 6). This is where the work happens.
 2. **The ship layer — repo, deploy, eval-CI.** Public repo, a one-command deploy target, and the eval gate from chapter 6 wired into CI. Proof and its defense, automated.
@@ -24,7 +24,7 @@ Five layers, one default each. **The Daily Driver Stack** is the setup you can s
 4. **The presentation layer — show up sharp.** Interviews and client calls both reward clarity under pressure. **Pavleur** (my product) is an AI meeting copilot and resume builder — the presentation layer for both games.
 5. **The fleet layer — command more than one agent.** When you're driving a fleet, typing is the bottleneck. **Keebye** (my product) is voice dictation built for parallel AI-agent workstreams — one voice, several agents, what chapter 2 called commanding the fleet.
 
-Pick the defaults, stand up the stack, and stop shopping. The engineer who ships is the one who stopped deciding and started driving.
+Pick the defaults, stand up the two load-bearing layers first, and stop shopping. The engineer who ships is the one who stopped deciding and started driving.
 
 ## Go deeper
 
