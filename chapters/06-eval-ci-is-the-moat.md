@@ -23,7 +23,7 @@ A moat isn't a feeling; it's a gate that blocks bad changes automatically. **The
 1. **Write the eval set.** Fifteen to thirty representative inputs with a way to score each output — an assertion, a rubric, or an LLM-as-judge with a spot-checked prompt. Small and real beats large and aspirational.
 2. **Set a threshold.** Decide the passing rate the system must hold — say, 90% grounded and correct. Name the number before you're tempted to move it.
 3. **Wire it into CI.** The eval runs on every pull request. Below threshold, the check goes red and the merge is blocked. The gate, not your goodwill, enforces quality.
-4. **Gate a real PR.** Make an actual change to your chapter-3 project, watch the eval catch a regression (or pass honestly), and merge only through the green gate. Now you have a demo that defends itself.
+4. **Gate a real PR.** Make an actual change to your chapter-5 project, watch the eval catch a regression (or pass honestly), and merge only through the green gate. Now you have a demo that defends itself.
 
 Ship the eval, and you've built the one thing buyers can't get from a prototype: a reason to trust it tomorrow.
 
@@ -35,8 +35,8 @@ Ship the eval, and you've built the one thing buyers can't get from a prototype:
 
 ---
 
-> **This is the free edition.** The full chapter — the rigor pass, the complete stories, and the ship-this exercise — is in the book. [Reserve the $39.99 launch price](https://aiescu.com/book?utm_source=github&utm_medium=04-eval-ci-is-the-moat) — free to reserve, nothing charged until it ships.
+> **This is the free edition.** The full chapter — the rigor pass, the complete stories, and the ship-this exercise — is in the book. [Reserve the $39.99 launch price](https://aiescu.com/book?utm_source=github&utm_medium=06-eval-ci-is-the-moat) — free to reserve, nothing charged until it ships.
 
 ---
 
-Prev: [← Chapter 3](03-proof-beats-credentials.md) · Next: [Chapter 5 — Finding Clients When Nobody's Hiring →](05-finding-clients.md)
+Prev: [← Chapter 5](05-proof-beats-credentials.md) · Next: [Chapter 7 — Finding Clients When Nobody's Hiring →](07-finding-clients.md)

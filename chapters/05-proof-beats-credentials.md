@@ -35,8 +35,8 @@ A ledger with one honest entry outranks a resume with ten certifications, becaus
 
 ---
 
-> **This is the free edition.** The full chapter — the rigor pass, the complete stories, and the ship-this exercise — is in the book. [Reserve the $39.99 launch price](https://aiescu.com/book?utm_source=github&utm_medium=03-proof-beats-credentials) — free to reserve, nothing charged until it ships.
+> **This is the free edition.** The full chapter — the rigor pass, the complete stories, and the ship-this exercise — is in the book. [Reserve the $39.99 launch price](https://aiescu.com/book?utm_source=github&utm_medium=05-proof-beats-credentials) — free to reserve, nothing charged until it ships.
 
 ---
 
-Prev: [← Chapter 2](02-the-new-game.md) · Next: [Chapter 4 — Agents Without Evals Are Demos →](04-eval-ci-is-the-moat.md)
+Prev: [← Chapter 4](04-parallel-engineering.md) · Next: [Chapter 6 — Agents Without Evals Are Demos →](06-eval-ci-is-the-moat.md)

@@ -38,4 +38,4 @@ Do this once and the abstraction becomes muscle. You are not competing with the 
 
 ---
 
-Prev: [← Chapter 1](01-the-ladder-collapsed.md) · Next: [Chapter 3 — Proof Beats Credentials →](03-proof-beats-credentials.md)
+Prev: [← Chapter 1](01-the-ladder-collapsed.md) · Next: [Chapter 3 — The AI Multiplier →](03-the-ai-multiplier.md)

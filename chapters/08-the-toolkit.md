@@ -18,8 +18,8 @@ A **stack** is the ordered set of layers a workflow runs on — historically the
 
 Five layers, one default each. **The Daily Driver Stack** is the setup you can stand up this week:
 
-1. **The build layer — an agentic coding environment.** Claude Code as the core: read the codebase, run commands, drive parallel agents behind verifiable checks (chapters 2 and 4). This is where the work happens.
-2. **The ship layer — repo, deploy, eval-CI.** Public repo, a one-command deploy target, and the eval gate from chapter 4 wired into CI. Proof and its defense, automated.
+1. **The build layer — an agentic coding environment.** Claude Code as the core: read the codebase, run commands, drive parallel agents behind verifiable checks (chapters 2, 4, and 6). This is where the work happens.
+2. **The ship layer — repo, deploy, eval-CI.** Public repo, a one-command deploy target, and the eval gate from chapter 6 wired into CI. Proof and its defense, automated.
 3. **The old-game layer — the paycheck bridge.** While you build the new game, you still interview. **GeekBye** (my product) is an AI interview assistant — a copilot for the tough on-the-spot questions — so you can win the old game for the paycheck that funds the new one.
 4. **The presentation layer — show up sharp.** Interviews and client calls both reward clarity under pressure. **Pavleur** (my product) is an AI meeting copilot and resume builder — the presentation layer for both games.
 5. **The fleet layer — command more than one agent.** When you're driving a fleet, typing is the bottleneck. **Keebye** (my product) is voice dictation built for parallel AI-agent workstreams — one voice, several agents, what chapter 2 called commanding the fleet.
@@ -33,8 +33,8 @@ Pick the defaults, stand up the stack, and stop shopping. The engineer who ships
 
 ---
 
-> **This is the free edition.** The full chapter — the rigor pass, the complete stories, and the ship-this exercise — is in the book. [Reserve the $39.99 launch price](https://aiescu.com/book?utm_source=github&utm_medium=06-the-toolkit) — free to reserve, nothing charged until it ships.
+> **This is the free edition.** The full chapter — the rigor pass, the complete stories, and the ship-this exercise — is in the book. [Reserve the $39.99 launch price](https://aiescu.com/book?utm_source=github&utm_medium=08-the-toolkit) — free to reserve, nothing charged until it ships.
 
 ---
 
-Prev: [← Chapter 5](05-finding-clients.md) · Back to: [README / Table of Contents ↑](../README.md)
+Prev: [← Chapter 7](07-finding-clients.md) · Back to: [README / Table of Contents ↑](../README.md)

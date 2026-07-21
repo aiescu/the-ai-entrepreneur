@@ -2,7 +2,7 @@
 
 > "If you are billing by the hour, you have a subconscious incentive to *not* become more efficient." — from Jonathan Stark, *The Moral Dilemma of Hourly Billing*
 
-The job market said no forty times. So Adrian did something that felt illegal for a mid-level engineer: he sent an email to a company that wasn't hiring, didn't ask for a job, and attached nothing but a link. The link was a working demo of the exact problem that company had publicly complained about — their support docs, wrapped in the RAG system from chapter 3, gated by the evals from chapter 4. The subject line wasn't "looking for opportunities." It was "I built the thing you said you needed — here it is, live."
+The job market said no forty times. So Adrian did something that felt illegal for a mid-level engineer: he sent an email to a company that wasn't hiring, didn't ask for a job, and attached nothing but a link. The link was a working demo of the exact problem that company had publicly complained about — their support docs, wrapped in the RAG system from chapter 5, gated by the evals from chapter 6. The subject line wasn't "looking for opportunities." It was "I built the thing you said you needed — here it is, live."
 
 He got a reply in a day. Not because his email was clever, but because he had inverted the entire transaction. He wasn't a candidate asking to be evaluated. He was a builder showing a result. The company didn't have to imagine whether he could do the work; they could click it. In a call, an agency shows a deck of past logos and promises. Adrian showed the client their own problem, already solved, on a URL. One person with a working demo and evals *is* an agency now — a smaller, faster, cheaper one, arriving with proof instead of a proposal.
 
@@ -21,7 +21,7 @@ An **offer** is not a request; it's a proposed exchange where you've already abs
 Turn the proof you already built into one specific offer to one specific buyer. **The First-Call Offer** is five steps:
 
 1. **Find one buyer with a stated problem.** A public complaint, a job posting for the thing you can build, a "we wish we had" in a founder's post. One, not a list.
-2. **Rebuild your chapter-3 proof on their problem.** Same system, their data. A few hours, because the machinery already exists and passes its evals.
+2. **Rebuild your chapter-5 proof on their problem.** Same system, their data. A few hours, because the machinery already exists and passes its evals.
 3. **Lead with the link, not the ask.** The message is "here's your problem, solved, live" — the demo does the persuading. No resume, no pitch deck.
 4. **Name a small, concrete next step.** A 20-minute call to walk through it, or a scoped paid pilot. Lower the buyer's activation energy.
 5. **Price on the outcome, not your hours.** Charge for the problem solved, not the time spent. This is why hourly billing is nuts — it caps you at your clock and hides your leverage.
@@ -35,8 +35,8 @@ Send one. Not fifty. One real offer, built on proof, beats a hundred application
 
 ---
 
-> **This is the free edition.** The full chapter — the rigor pass, the complete stories, and the ship-this exercise — is in the book. [Reserve the $39.99 launch price](https://aiescu.com/book?utm_source=github&utm_medium=05-finding-clients) — free to reserve, nothing charged until it ships.
+> **This is the free edition.** The full chapter — the rigor pass, the complete stories, and the ship-this exercise — is in the book. [Reserve the $39.99 launch price](https://aiescu.com/book?utm_source=github&utm_medium=07-finding-clients) — free to reserve, nothing charged until it ships.
 
 ---
 
-Prev: [← Chapter 4](04-eval-ci-is-the-moat.md) · Next: [Chapter 6 — The Toolkit, End to End →](06-the-toolkit.md)
+Prev: [← Chapter 6](06-eval-ci-is-the-moat.md) · Next: [Chapter 8 — The Toolkit, End to End →](08-the-toolkit.md)
