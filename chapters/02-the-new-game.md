@@ -1,6 +1,6 @@
 # The New Game: One Engineer, a Fleet of Agents — Why AI Takes Tasks, Not Judgment
 
-> "The most successful implementations use simple, composable patterns rather than complex frameworks." — from Anthropic, *Building Effective AI Agents*
+> "Consistently, the most successful implementations weren't using complex frameworks or specialized libraries. Instead, they were building with simple, composable patterns." — from Anthropic, *Building Effective AI Agents*
 
 The first time you watch three coding agents work at once, something in your chest tightens. One is migrating a test suite. One is drafting the API client from a spec you pasted. One is chewing through a backlog of lint failures, committing as it goes. You are not typing. You are reading their output, redirecting the one that wandered, approving the one that's right, and killing the one that went sideways. Twenty minutes in, you've shipped what used to be a two-day ticket, and the tightening in your chest resolves into a specific, uncomfortable question: *if one engineer can drive a fleet, what happens to the team that couldn't?*
 

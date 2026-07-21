@@ -1,6 +1,6 @@
 # Proof Beats Credentials: How to Get AI Experience When Every Job Requires AI Experience You Can't Get Without a Job
 
-> "We build models that combine pre-trained parametric and non-parametric memory for language generation." — from Lewis et al., *Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks*
+> "[We explore] models which combine pre-trained parametric and non-parametric memory for language generation." — from Patrick Lewis et al., *Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks*
 
 The posting wants two years of production LLM experience. You have zero, because two years ago production LLM experience didn't exist, and the only way the posting will let you get it is to already have it. It's a locked door with the key on the inside. Adrian read forty of these in a week and felt the specific despair of a catch-22: he couldn't get the job without the experience, and he couldn't get the experience without the job.
 

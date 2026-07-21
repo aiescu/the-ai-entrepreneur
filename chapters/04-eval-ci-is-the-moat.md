@@ -1,6 +1,6 @@
 # Agents Without Evals Are Demos: Why Eval-CI Is the Moat Between a Cool Prototype and a Product People Pay For
 
-> "If you want to improve your AI, the most impactful thing you can do is look at your data and build evals." — from Hamel Husain, *Your AI Product Needs Evals*
+> "Unsuccessful products almost always share a common root cause: a failure to create robust evaluation systems." — from Hamel Husain, *Your AI Product Needs Evals*
 
 The demo goes perfectly. It always does — you tested it on the same five inputs a dozen times. The prospect nods, asks one question you didn't rehearse, and the model confidently returns something wrong. Not obviously wrong. Plausibly, expensively wrong. The room cools. What you're feeling in that moment is the exact distance between a demo and a product, and it's measured in one thing you didn't build: a way to know, automatically, whether the thing still works when the inputs change.
 

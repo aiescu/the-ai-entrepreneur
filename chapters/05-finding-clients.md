@@ -1,6 +1,6 @@
 # Finding Clients When Nobody's Hiring: How One Engineer With a Working Demo Beats an Agency's Pitch Deck
 
-> "Hourly billing creates a fundamental conflict of interest between you and your client." — from Jonathan Stark, *Hourly Billing Is Nuts*
+> "If you are billing by the hour, you have a subconscious incentive to *not* become more efficient." — from Jonathan Stark, *The Moral Dilemma of Hourly Billing*
 
 The job market said no forty times. So Adrian did something that felt illegal for a mid-level engineer: he sent an email to a company that wasn't hiring, didn't ask for a job, and attached nothing but a link. The link was a working demo of the exact problem that company had publicly complained about — their support docs, wrapped in the RAG system from chapter 3, gated by the evals from chapter 4. The subject line wasn't "looking for opportunities." It was "I built the thing you said you needed — here it is, live."
 

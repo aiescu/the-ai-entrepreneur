@@ -1,6 +1,6 @@
 # Introduction: You're Early, Not Obsolete — Reading the AI Job Market Without Reading It as a Verdict on You
 
-> "The way to do really big things is to do really small things and then grow them." — from Paul Graham, *How to Do Great Work*
+> "Big things start small." — from Paul Graham, *How to Do Great Work*
 
 You send the application at 11:40 p.m., the forty-first this month. The confirmation email arrives before you close the laptop: *Thank you for your interest. Due to the volume of applicants, only shortlisted candidates will be contacted.* No human read it. A parser scored it, ranked it against three hundred others, and filed it. Two weeks of silence is not a rejection you can learn from. It is a non-event. And somewhere in the quiet, you start doing the math on your savings, and the math turns into a story: *maybe it's me.*
 

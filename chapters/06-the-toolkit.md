@@ -1,6 +1,6 @@
 # The Toolkit, End to End: The Daily-Driver Stack for Shipping AI as One Person Instead of Figuring Out the Tools Alone
 
-> "Keep it simple. Anytime you're asked to make something simpler, and you don't know how, the answer is usually to remove." — from 37signals, *Getting Real*
+> "The answer is less. Do less than your competitors to beat them." — from 37signals, *Getting Real*
 
 Every stuck engineer eventually hits the same wall, and it isn't a skill wall — it's a *stack* wall. You know how to build; you've done the RAG demo, wired the evals, sent the offer. But between you and shipping like a team sits a fog of tooling decisions: which editor, which agent runner, which vector store, how to command more than one agent at once without losing your mind, how to sound sharp in the client call you just earned. Adrian spent more evenings paralyzed by tool choice than by any actual bug. The paralysis had a story attached: *everyone else already knows the stack, and I have to reverse-engineer it alone.*
 
