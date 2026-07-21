@@ -1,6 +1,6 @@
 # The Ladder Collapsed: Why Another Certification Won't Fix a Job Search That Isn't Broken — It's Obsolete
 
-> "You are not defined by your job title, and your job title is not defined by your skills." — from Patrick McKenzie, *Don't Call Yourself a Programmer*
+> "Engineers are hired to create business value, not to program things." — Patrick McKenzie, *Don't Call Yourself a Programmer, And Other Career Advice* (2011)
 
 Adrian has three cloud certifications, a Kubernetes badge, and a half-finished machine-learning specialization he bought during the last round of layoffs because the postings all said "ML experience preferred." He is, by every credential he was told to collect, more qualified than he was two years ago. He is also getting fewer callbacks. When he tells people this, they suggest another course. He has started to suspect the courses are a treadmill someone forgot to turn off.
 
