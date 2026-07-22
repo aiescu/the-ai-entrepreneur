@@ -22,13 +22,13 @@ The free, written-in-the-open edition of *The AI Entrepreneur* — the manifesto
 
 **If you can code but can't ship an AI product end to end** — you've played with an LLM but never taken one to production — the gap is smaller and more valuable than you think. → Read [The New Game](chapters/02-the-new-game.md) and [Agents Without Evals Are Demos](chapters/06-eval-ci-is-the-moat.md).
 
-**If you feel forced to choose between the job hunt and reinventing yourself** — you don't have to pick. Win the old game for the paycheck while you build the new one for the freedom. → Start at the [Introduction](chapters/00-introduction.md).
+**If you feel forced to choose between the job hunt and reinventing yourself** — you don't have to pick. Win the old game for the paycheck while you build the new one for the freedom. → Read [Win the Old Game While You Build Your Exit](chapters/08-win-the-old-game.md), or start at the [Introduction](chapters/00-introduction.md).
 
 ---
 
 ## What this repo is
 
-This is the **free edition** of the book: the cold-open hooks, the false beliefs each chapter breaks, the named frameworks and their steps, and a curated set of high-signal external links per chapter. It's written in the open, chapter by chapter.
+This is the **free edition** of the book — 13 chapters, free editions of each: the cold-open hooks, the false beliefs each chapter breaks, the named frameworks and their steps, and a curated set of high-signal external links per chapter. It's written in the open, chapter by chapter.
 
 The **full book** — the rigor passes, the complete stories, and the ship-this exercises that end every chapter — lives at **[aiescu.com/book](https://aiescu.com/book?utm_source=github&utm_medium=readme-intro)**. It's a **$39.99 launch-price reservation**: free to reserve, and nothing is charged until the book actually ships. Not a discount from a price that never existed — a launch price you're reserving early.
 
@@ -38,17 +38,29 @@ The enemy this book names is never a recruiter, an employer, or another engineer
 
 ## Table of contents
 
-Nine chapters. Each breaks one false belief and hands you something to ship.
+Thirteen chapters in three Parts, free editions of each. Every chapter breaks one false belief and hands you something to ship. The spine is **The Operator's Ladder** — Decide, Leverage, Prove, Sell, Compound — named in the introduction and reprised in chapter 12.
+
+### Part I — The Collapse
 
 - **[Introduction: You're Early, Not Obsolete](chapters/00-introduction.md)** — reading the AI job market without reading it as a verdict on you. Breaks *"the rejection is about me."*
 - **[Chapter 1 — The Ladder Collapsed](chapters/01-the-ladder-collapsed.md)** — why another certification won't fix a job search that isn't broken, it's obsolete. Breaks *"I need another certification."*
+
+### Part II — The Playbook
+
 - **[Chapter 2 — The New Game: One Engineer, a Fleet of Agents](chapters/02-the-new-game.md)** — why AI takes tasks, not judgment. Breaks *"AI will take my job."*
 - **[Chapter 3 — The AI Multiplier](chapters/03-the-ai-multiplier.md)** — why AI's real gift is compounding output, not the hours it saves you today. Breaks *"AI saves me a few hours, that's all."*
 - **[Chapter 4 — Parallel Engineering](chapters/04-parallel-engineering.md)** — how to clone yourself across isolated agent lanes so the work runs while you're not looking. Breaks *"I can only be in one place at a time."*
 - **[Chapter 5 — Proof Beats Credentials](chapters/05-proof-beats-credentials.md)** — how to get AI experience when every job requires AI experience you can't get. Breaks *"I can't get AI experience without a job."*
 - **[Chapter 6 — Agents Without Evals Are Demos](chapters/06-eval-ci-is-the-moat.md)** — why eval-CI is the moat between a prototype and a product people pay for. Breaks *"my demo is enough."*
 - **[Chapter 7 — Finding Clients When Nobody's Hiring](chapters/07-finding-clients.md)** — how one engineer with a working demo beats an agency's pitch deck. Breaks *"clients only hire agencies."*
-- **[Chapter 8 — The Toolkit, End to End](chapters/08-the-toolkit.md)** — the daily-driver stack for shipping AI as one person. Breaks *"I have to figure out the stack alone."*
+
+### Part III — The Tools of the Era
+
+- **[Chapter 8 — Win the Old Game While You Build Your Exit](chapters/08-win-the-old-game.md)** — interviewing as a trainable loop with an AI sparring partner, so the paycheck bridge funds the exit. Breaks *"I have to choose: job hunt OR reinvent myself."*
+- **[Chapter 9 — Show Up Sharp: Meetings Are the New Interviews](chapters/09-show-up-sharp.md)** — the three artifacts that keep deals from dying in unrecorded meetings. Breaks *"if the work is good, the meeting doesn't matter."*
+- **[Chapter 10 — Command the Fleet by Voice](chapters/10-command-the-fleet-by-voice.md)** — why the operator's own words per minute is the fleet's ceiling, and how voice widens the pipe. Breaks *"once the agents do the typing, my own throughput stops mattering."*
+- **[Chapter 11 — The Glass Workshop: Your Public Proof HQ](chapters/11-the-glass-workshop.md)** — the one-page proof site that survives being forwarded to a stranger. Breaks *"a repo is enough — a website is vanity."*
+- **[Chapter 12 — The Daily Driver](chapters/12-the-daily-driver.md)** — the settled five-layer stack, and the Operator's Ladder reprised. Breaks *"I have to figure out the stack alone."*
 
 ---
 
@@ -68,9 +80,9 @@ No "quit your job" advice here. The book explicitly endorses the paycheck bridge
 
 The tools an AI entrepreneur carries, placed at the stage of the journey where you actually need them (these are the author's own products):
 
-- **[GeekBye](https://geekbye.com?utm_source=github&utm_medium=readme-tools)** — AI interview assistant. Win the old game while you build your escape: walk into interviews with a copilot for the tough on-the-spot questions.
-- **[Pavleur](https://pavleur.com?utm_source=github&utm_medium=readme-tools)** — AI meeting copilot and resume builder. Your resume and your meetings, upgraded to AI-era standards — for interviews and client calls alike.
-- **[Keebye](https://keebye.com?utm_source=github&utm_medium=readme-tools)** — voice dictation for parallel AI-agent workstreams. One voice, several agents: the tool for commanding the fleet.
+- **[GeekBye](https://geekbye.com?utm_source=github&utm_medium=readme-tools)** — AI interview copilot for preparation and practice. Rehearse the questions you fumble against an AI sparring partner — the [Rehearsal Loop of chapter 8](chapters/08-win-the-old-game.md) — and win the old game while you build your exit.
+- **[Pavleur](https://pavleur.com?utm_source=github&utm_medium=readme-tools)** — AI meeting copilot and resume builder. The presentation layer for both games — client calls and interviews alike — behind the [Three-Artifact Call of chapter 9](chapters/09-show-up-sharp.md).
+- **[Keebye](https://keebye.com?utm_source=github&utm_medium=readme-tools)** — voice dictation for parallel AI-agent workstreams. One voice, several agents: the [Dispatch Loop of chapter 10](chapters/10-command-the-fleet-by-voice.md).
 
 ---
 

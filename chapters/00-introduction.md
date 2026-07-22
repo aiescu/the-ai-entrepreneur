@@ -29,6 +29,18 @@ Every chapter that follows hands you something to ship. The introduction hands y
 
 You are early. That is an uncomfortable place to stand, because early looks a lot like alone. The rest of the book is the map for the ground you're standing on.
 
+## The map: The Operator's Ladder
+
+The whole playbook has a name, and the name takes back the enemy's word on purpose. **The Operator's Ladder** is the five-stage path the book walks you up — *operator*, because every rung is something you run and can verify, never a title someone else grants you; *ladder*, because the answer to a collapsed ladder was never to swear off ladders. It was to stop renting one. Five stages, in order, mapped onto the book's three Parts:
+
+1. **Decide** — Part I, *The Collapse* (introduction and chapter 1): the identity decision, signed; the old game measured honestly.
+2. **Leverage** — Part II, *The Playbook* (chapters 2-4): a fleet of agents you command in parallel lanes, with output that compounds.
+3. **Prove** — Part II (chapters 5-6): a deployed system with a public repo, gated by evals — proof a stranger can click.
+4. **Sell** — Part II (chapter 7): one proof-first offer in front of a real buyer.
+5. **Compound** — Part III, *The Tools of the Era* (chapters 8-12): the daily tools and habits that make the first four rungs repeatable, in both games at once.
+
+The Ladder is the map, not this chapter's framework — the Two-Games Decision you just made *is* its first stage. Decide is the rung every other rung is bolted to.
+
 ## Go deeper
 
 - [Paul Graham — *How to Do Great Work* (on choosing work at the frontier and growing it from something small)](https://paulgraham.com/greatwork.html)

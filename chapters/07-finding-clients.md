@@ -39,4 +39,4 @@ Send one. Not fifty. One real offer, built on proof, beats a hundred application
 
 ---
 
-Prev: [← Chapter 6](06-eval-ci-is-the-moat.md) · Next: [Chapter 8 — The Toolkit, End to End →](08-the-toolkit.md)
+Prev: [← Chapter 6](06-eval-ci-is-the-moat.md) · Next: [Chapter 8 — Win the Old Game While You Build Your Exit →](08-win-the-old-game.md)
