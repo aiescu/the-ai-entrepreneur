@@ -1,5 +1,9 @@
 # The AI Entrepreneur — You Can Still Find Jobs and Clients in the AI Era
 
+<p align="center">
+  <img src="assets/cover.png" alt="The AI Entrepreneur — book cover" width="420">
+</p>
+
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](LICENSE.md)
 [![Book: reserve the launch price](https://img.shields.io/badge/Book-reserve%20%2439.99%20launch%20price-0a7cff.svg)](https://aiescu.com/book?utm_source=github&utm_medium=readme-badge)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff2d78.svg)](CONTRIBUTING.md)
