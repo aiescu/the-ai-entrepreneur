@@ -40,6 +40,8 @@ The enemy this book names is never a recruiter, an employer, or another engineer
 
 Thirteen chapters in three Parts, free editions of each. Every chapter breaks one false belief and hands you something to ship. The spine is **The Operator's Ladder** — Decide, Leverage, Prove, Sell, Compound — named in the introduction and reprised in chapter 12.
 
+Vocabulary you can almost place? The **[Glossary](GLOSSARY.md)** explains 154 AI, agent, and RAG terms with plain definitions and real-life analogies — the system around the model, in ordinary words.
+
 ### Part I — The Collapse
 
 - **[Introduction: You're Early, Not Obsolete](chapters/00-introduction.md)** — reading the AI job market without reading it as a verdict on you. Breaks *"the rejection is about me."*
